@@ -3,22 +3,6 @@
 #include <assert.h>
 using namespace std;
 
-class Duration {
-
-private:
-    int time;
-
-public:
-    
-    Duration(int s=0);
-
-    void setTime(int new_s);
-
-    int getDuration();
-
-    void resetTime();
-};
-
 Duration::Duration(int t) {
     time = t;
 }
@@ -36,10 +20,4 @@ void Duration::resetTime() {
     time = 0;
 }
 
-/*
-int main () {
-    Duration d(1);
-    cout << d.getDuration() << endl;
-    return 0;
-}
-*/
+
