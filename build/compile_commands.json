@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/build",
+  "command": "/usr/bin/clang++  -I\"/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -std=gnu++14 -o CMakeFiles/mymath.dir/src/duration.cpp.o -c \"/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/src/duration.cpp\"",
+  "file": "/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/src/duration.cpp"
+},
+{
+  "directory": "/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/build",
+  "command": "/usr/bin/clang++  -I\"/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -std=gnu++14 -o CMakeFiles/main.dir/src/main.cpp.o -c \"/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/src/main.cpp\"",
+  "file": "/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/src/main.cpp"
+},
+{
+  "directory": "/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/build/tests",
+  "command": "/usr/bin/clang++  -I\"/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/tests/include\" -I\"/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -std=gnu++14 -o CMakeFiles/tests.dir/src/tests.cpp.o -c \"/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/tests/src/tests.cpp\"",
+  "file": "/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/tests/src/tests.cpp"
+}
+]
