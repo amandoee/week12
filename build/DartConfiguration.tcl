@@ -11,7 +11,7 @@ BuildDirectory: /Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/
 CostDataFile: 
 
 # Site is something like machine.domain, i.e. pragmatic.crd
-Site: andreass-air.eduroam.net.au.dk
+Site: Andreass-MacBook-Air.local
 
 # Build name is osname-revision-compiler, i.e. Linux-2.4.2-2smp-c++
 BuildName: Darwin-clang++

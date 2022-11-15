@@ -1,9 +1,11 @@
 CMakeFiles/mymath.dir/src/duration.cpp.o: \
   /Users/andreasmandoe/OneDrive\ -\ Aarhus\ universitet/OneDrive\ Uni/ComputerTeknologi/1.\ Semester/Programmering\ for\ computerteknologi/week12/src/duration.cpp \
   /Users/andreasmandoe/OneDrive\ -\ Aarhus\ universitet/OneDrive\ Uni/ComputerTeknologi/1.\ Semester/Programmering\ for\ computerteknologi/week12/include/duration.hpp \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/iostream \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/stdbool.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/pthread.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include/stdbool.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/ios \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/iosfwd \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/wchar.h \

@@ -284,4 +284,6 @@ tests/CMakeFiles/tests.dir/src/tests.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/sys/vm.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/regex \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/iostream \
-  /Users/andreasmandoe/OneDrive\ -\ Aarhus\ universitet/OneDrive\ Uni/ComputerTeknologi/1.\ Semester/Programmering\ for\ computerteknologi/week12/include/duration.hpp
+  /Users/andreasmandoe/OneDrive\ -\ Aarhus\ universitet/OneDrive\ Uni/ComputerTeknologi/1.\ Semester/Programmering\ for\ computerteknologi/week12/include/duration.hpp \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/stdbool.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include/stdbool.h

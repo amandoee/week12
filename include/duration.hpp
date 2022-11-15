@@ -1,28 +1,36 @@
 #ifndef __DURATION_H_
 #define __DURATION_H_
-
-
-void Duration();
-void setTime(int new_t);
-int getDuration();
-void resetTime();
+#include <stdbool.h>
 
 class Duration {
 private:
+
+    //3 private attributter relevante for en alarm.
     int time;
+    int alarm = 0;
+    bool alarmHasBeenSet = false;
+
+    //Tjekker og opdaterer alarm hvis nødvendigt.
+    bool checkAndUpdateAlarm();
 
 public:
     
-    Duration(int s=0);
+    Duration();
 
-    void setTime(int new_s);
+    void setTime(int t);
 
     int getDuration();
 
     void resetTime();
+
+    bool tick();
+
+    bool tick(int dt);
+
+    void setAlarm(int t);
+
+    bool checkAlarm();
 };
-
-
 
 
 

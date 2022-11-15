@@ -241,7 +241,7 @@ MEMORYCHECK_COMMAND:FILEPATH=MEMORYCHECK_COMMAND-NOTFOUND
 MEMORYCHECK_SUPPRESSIONS_FILE:FILEPATH=
 
 //Name of the computer/site where compile is being run
-SITE:STRING=andreass-air.eduroam.net.au.dk
+SITE:STRING=Andreass-MacBook-Air.local
 
 //Value Computed by CMake
 template_BINARY_DIR:STATIC=/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/build
